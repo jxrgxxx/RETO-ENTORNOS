@@ -10,10 +10,10 @@ public class LeonardoDaVinci {
     public static String fraseTipica;
 
     static {
-        LeonardoDaVinci.nombre = "";
-        LeonardoDaVinci.descripcionFisica = "";
-        LeonardoDaVinci.historia = "";
-        LeonardoDaVinci.fraseTipica = "";
+        LeonardoDaVinci.nombre = "Leonardo da Vinci";
+        LeonardoDaVinci.descripcionFisica = "De mediana estatura, cabello y barba castaños largos, siempre vestido con ropajes de la época renacentista.";
+        LeonardoDaVinci.historia = "Genio renacentista, inventor, pintor y científico. Fascinado por la mecánica y el arte.";
+        LeonardoDaVinci.fraseTipica = "Todo está conectado.";
     }
 
     public static void main(String[] args) {
