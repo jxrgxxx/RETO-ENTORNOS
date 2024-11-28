@@ -10,10 +10,10 @@ public class JuanaDeArco {
     public static String fraseTipica;
 
     static {
-        JuanaDeArco.nombre = "";
-        JuanaDeArco.descripcionFisica = "";
-        JuanaDeArco.historia = "";
-        JuanaDeArco.fraseTipica = "";
+        JuanaDeArco.nombre = "Juana de Arco";
+        JuanaDeArco.descripcionFisica = "Joven de cabello corto, vestida con una armadura ligera.";
+        JuanaDeArco.historia = "Heroína francesa y santa, lideró ejércitos inspirada por sus visiones divinas.";
+        JuanaDeArco.fraseTipica = "Dios guía mi espada.";
     }
 
     public static void main(String[] args) {
