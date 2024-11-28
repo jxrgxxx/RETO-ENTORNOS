@@ -10,10 +10,10 @@ public class NikolaTesla {
     public static String fraseTipica;
 
     static {
-        NikolaTesla.nombre = "";
-        NikolaTesla.descripcionFisica = "";
-        NikolaTesla.historia = "";
-        NikolaTesla.fraseTipica = "";
+        NikolaTesla.nombre = "Nikola Tesla";
+        NikolaTesla.descripcionFisica = "Delgado, de cabello oscuro peinado hacia atrás, vestido con traje formal.";
+        NikolaTesla.historia = "Inventor y científico serbio, pionero de la corriente alterna y obsesionado con la energía y el magnetismo.";
+        NikolaTesla.fraseTipica = "La electricidad es el alma del universo.";
     }
 
     public static void main(String[] args) {
