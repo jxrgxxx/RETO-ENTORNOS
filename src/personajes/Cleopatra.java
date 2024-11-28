@@ -22,4 +22,4 @@ public class Cleopatra {
         System.out.println(Cleopatra.historia + "\n");
         System.out.println(Cleopatra.fraseTipica + "\n");
     }
-}
+}   
