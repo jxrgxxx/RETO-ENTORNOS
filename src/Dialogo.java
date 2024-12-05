@@ -23,8 +23,8 @@ public class Dialogo {
         System.out.println("Tesla: (Examinando el imán) Este dispositivo contiene un magnetismo natural. Podría interactuar con el resto de los objetos.");
         System.out.println("Juana: (A Leonardo) ¿Qué crees que representa esta máscara? Su tristeza parece un mensaje de advertencia.");
         System.out.println("Leonardo: (Examinando la tarjeta) Qué diseño tan curioso. Quizás algún código esté escondido aquí.");
-       System.out.println("Cleopatra: En mi tiempo, el cálculo y la lógica eran claves para la victoria. Ese ábaco me intriga.");
-       
+        System.out.println("Cleopatra: En mi tiempo, el cálculo y la lógica eran claves para la victoria. Ese ábaco me intriga.");
+        System.out.println("Tesla: Mis experimentos buscaban crear energía ilimitada. Tal vez hemos liberado algo más grande.");
         System.out.println(Dialogo.Desenlace);
     }   
 }
