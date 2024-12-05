@@ -33,6 +33,8 @@ public class Dialogo {
         System.out.println("Leonardo: Cleopatra, tus habilidades estratégicas serán útiles. Todo está conectado en un diseño mayor.");
         System.out.println("Cleopatra: (Reflexiva) La cooperación aquí es clave. Aunque vengamos de diferentes tiempos, debemos unirnos.");
         System.out.println("Tesla: (Concentrado) Si conecto este imán al ábaco y canalizo energía, podríamos desencadenar una reacción.");
+        System.out.println("Juana: Dios nos ha reunido. Sigamos adelante con valentía y propósito.");
+
         System.out.println(Dialogo.Desenlace);
     }   
 }
