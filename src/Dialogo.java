@@ -21,7 +21,8 @@ public class Dialogo {
         System.out.println("Leonardo: Este objeto, el ábaco, parece una herramienta para los números. Tal vez aquí reside una clave para regresar.");
         System.out.println("Cleopatra: (Señalando la tarjeta) Un mensaje, tal vez una orden. Lo que significa que debemos descubrirlo.");
         System.out.println("Tesla: (Examinando el imán) Este dispositivo contiene un magnetismo natural. Podría interactuar con el resto de los objetos.");
-        System.out.println("Juana: (A Leonardo) ¿Qué crees que representa esta máscara? Su tristeza parece un mensaje de advertencia.")
+        System.out.println("Juana: (A Leonardo) ¿Qué crees que representa esta máscara? Su tristeza parece un mensaje de advertencia.");
+        System.out.println("Leonardo: (Examinando la tarjeta) Qué diseño tan curioso. Quizás algún código esté escondido aquí.");
         System.out.println(Dialogo.Desenlace);
     }   
 }
