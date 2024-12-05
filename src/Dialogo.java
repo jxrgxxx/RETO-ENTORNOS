@@ -32,6 +32,7 @@ public class Dialogo {
         System.out.println("Juana: (Sosteniendo el imán) Este objeto me parece poderoso. Tal vez sea una señal enviada por Dios.");
         System.out.println("Leonardo: Cleopatra, tus habilidades estratégicas serán útiles. Todo está conectado en un diseño mayor.");
         System.out.println("Cleopatra: (Reflexiva) La cooperación aquí es clave. Aunque vengamos de diferentes tiempos, debemos unirnos.");
+        System.out.println("Tesla: (Concentrado) Si conecto este imán al ábaco y canalizo energía, podríamos desencadenar una reacción.");
         System.out.println(Dialogo.Desenlace);
     }   
 }
