@@ -14,9 +14,8 @@ public class Dialogo {
         System.out.println(Dialogo.Escenario);
 
         //conversación
-        System.out.println("Tesla: Lamento la confusión, pero parece que mi máquina ha abierto un portal en el
-        tiempo. La electricidad es el alma del universo, y ahora compartimos este momento fuera de
-        nuestras épocas.");    
+        System.out.println("Tesla: Lamento la confusión, pero parece que mi máquina ha abierto un portal en el tiempo. La electricidad es el alma del universo, y ahora compartimos este momento fuera de nuestras épocas.");
+        System.out.println("Leonardo: Tranquilo, todo está conectado. La mecánica del universo a veces da lugar a encuentros inesperados, como este.");    
         
 
         System.out.println(Dialogo.Desenlace);
