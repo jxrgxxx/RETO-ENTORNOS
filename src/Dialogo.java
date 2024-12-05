@@ -27,6 +27,7 @@ public class Dialogo {
         System.out.println("Tesla: Mis experimentos buscaban crear energía ilimitada. Tal vez hemos liberado algo más grande.");
         System.out.println("Juana: Dios guía mi espada, pero también mi mente. Pienso que debemos unirnos para resolver esto.");
         System.out.println("Leonardo: Tesla, explícanos cómo estas fuerzas invisibles pueden unirnos.");
+        System.out.println("Cleopatra: (A Leonardo) Tu mente ingeniosa debe encontrar un diseño para esto. Yo lideraré al grupo.");
         System.out.println(Dialogo.Desenlace);
     }   
 }
