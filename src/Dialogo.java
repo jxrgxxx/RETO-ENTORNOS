@@ -20,7 +20,7 @@ public class Dialogo {
         System.out.println("Juana: (Mirando la máscara triste) ¿Será esto una prueba divina? Dios guía mi espada, pero también mi propósito.");
         System.out.println("Leonardo: Este objeto, el ábaco, parece una herramienta para los números. Tal vez aquí reside una clave para regresar.");
         System.out.println("Cleopatra: (Señalando la tarjeta) Un mensaje, tal vez una orden. Lo que significa que debemos descubrirlo.");
-
+        System.out.println("Tesla: (Examinando el imán) Este dispositivo contiene un magnetismo natural. Podría interactuar con el resto de los objetos.");
         System.out.println(Dialogo.Desenlace);
     }
 }
