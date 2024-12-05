@@ -25,6 +25,7 @@ public class Dialogo {
         System.out.println("Leonardo: (Examinando la tarjeta) Qué diseño tan curioso. Quizás algún código esté escondido aquí.");
         System.out.println("Cleopatra: En mi tiempo, el cálculo y la lógica eran claves para la victoria. Ese ábaco me intriga.");
         System.out.println("Tesla: Mis experimentos buscaban crear energía ilimitada. Tal vez hemos liberado algo más grande.");
+        System.out.println("Juana: Dios guía mi espada, pero también mi mente. Pienso que debemos unirnos para resolver esto.")
         System.out.println(Dialogo.Desenlace);
     }   
 }
