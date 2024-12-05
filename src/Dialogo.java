@@ -19,6 +19,8 @@ public class Dialogo {
         System.out.println("Cleopatra:Me interesa saber quién está detrás de este fenómeno, porque el poder no se concede, se toma");
         System.out.println("Juana: (Mirando la máscara triste) ¿Será esto una prueba divina? Dios guía mi espada, pero también mi propósito.");
         System.out.println("Leonardo: Este objeto, el ábaco, parece una herramienta para los números. Tal vez aquí reside una clave para regresar.");
+        System.out.println("Cleopatra: (Señalando la tarjeta) Un mensaje, tal vez una orden. Lo que significa que debemos descubrirlo.");
+
         System.out.println(Dialogo.Desenlace);
     }
 }
