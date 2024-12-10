@@ -36,7 +36,7 @@ public class Dialogo {
         System.out.println("Juana: Dios nos ha reunido. Sigamos adelante con valentía y propósito.");
         System.out.println("Leonardo: (Intentando usar el imán) Este objeto genera una atracción misteriosa. Podríamos experimentar con ello.");
         System.out.println("Cleopatra: El poder no se concede; se toma. Tal vez necesitemos ser más audaces para usar estos objetos.");
-
+        System.out.printlm("Tesla: Mis cálculos sugieren que debemos combinar estos objetos en un círculo.");
         System.out.println(Dialogo.Desenlace);
     }   
 }
