@@ -39,6 +39,7 @@ public class Dialogo {
         System.out.println("Tesla: Mis cálculos sugieren que debemos combinar estos objetos en un círculo.");
         System.out.println("Juana: Creo que debemos rezar, pero también actuar con sabiduría.");
         System.out.println("Leonardo: Construyamos una estructura para alinear estos elementos. Así podríamos entender su relación.");
+        System.out.println("Cleopatra: (Señalando la máscara) Un rostro de tristeza es un recordatorio de que el poder no está exento de sacrificios.");
         System.out.println(Dialogo.Desenlace);
     }   
 }
