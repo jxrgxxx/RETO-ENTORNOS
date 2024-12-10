@@ -45,6 +45,7 @@ public class Dialogo {
         System.out.println("Leonardo: Tesla, dame herramientas; puedo esbozar un mecanismo que conecte estos objetos.");
         System.out.println("Cleopatra: No temo al misterio, porque cada movimiento tiene un propósito.");
         System.out.println("Tesla: (Dirigiéndose al grupo) Este portal temporal es inestable. Si no actuamos pronto, podríamos quedar atrapados aquí.");
+        System.out.println("Juana: Dios está con nosotros. Hagámoslo.");
         System.out.println(Dialogo.Desenlace);
     }   
 }
