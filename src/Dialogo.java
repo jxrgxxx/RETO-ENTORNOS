@@ -41,7 +41,8 @@ public class Dialogo {
         System.out.println("Leonardo: Construyamos una estructura para alinear estos elementos. Así podríamos entender su relación.");
         System.out.println("Cleopatra: (Señalando la máscara) Un rostro de tristeza es un recordatorio de que el poder no está exento de sacrificios.");
         System.out.println("Tesla: Si logramos sincronizar los campos magnéticos, todos regresaremos a nuestras épocas.");
-         System.out.println("Juana: (A Tesla) Si tu máquina causó esto, ¿puedes revertirlo")
+        System.out.println("Juana: (A Tesla) Si tu máquina causó esto, ¿puedes revertirlo");
+        System.out.println("Leonardo: Tesla, dame herramientas; puedo esbozar un mecanismo que conecte estos objetos.");
         System.out.println(Dialogo.Desenlace);
     }   
 }
