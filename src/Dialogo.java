@@ -48,6 +48,7 @@ public class Dialogo {
         System.out.println("Juana: Cada uno aquí tiene una misión divina. Debemos cumplirla.");
         System.out.println("Leonardo: (Dirigiéndose al grupo) Estamos aquí por una razón. Descifrar esto es un arte tanto como una ciencia.");
         System.out.println("Cleopatra: (Con firmeza) Nuestra fuerza radica en nuestras diferencias. Usemos eso para resolver este misterio.");
+        System.out.println("Tesla: (Sonriendo) Funcionará. Pero antes de intentarlo, cada uno debe aportar su energía al sistema.");
 
         System.out.println(Dialogo.Desenlace);
     }   
