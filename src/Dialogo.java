@@ -1,17 +1,18 @@
 
 public class Dialogo {
-    public static String Escenario;
+    public static String Introduccion;
     public static String Conversacion;
     public static String Desenlace;
 
     static {
-        Dialogo.Escenario = "Los personajes han sido transportados a una habitación misteriosa llena de objetos extraños.\nEntre ellos, una tarjeta antigua, un ábaco, un imán, y una máscara con expresión triste.\nTesla intenta explicar cómo sus experimentos los reunieron.\n";
+        Dialogo.Introduccion = "Los personajes han sido transportados a una habitación misteriosa llena de objetos extraños.\nEntre ellos, una tarjeta antigua, un ábaco, un imán, y una máscara con expresión triste.\nTesla intenta explicar cómo sus experimentos los reunieron.\n";
 
         Dialogo.Desenlace = "Al activar el sistema, una explosión de luz devuelve a cada personaje a su tiempo,\ncon la lección de que incluso los objetos más simples tienen un propósito en las manos adecuadas.\n";
     }
 
     public static void main(String[] args) {
-        System.out.println(Dialogo.Escenario);
+        //Introduccion
+        System.out.println(Dialogo.Introduccion);
 
         //conversación
         System.out.println("Tesla: Lamento la confusión, pero parece que mi máquina ha abierto un portal en el tiempo. La electricidad es el alma del universo, y ahora compartimos este momento fuera de nuestras épocas.");
@@ -51,6 +52,8 @@ public class Dialogo {
         System.out.println("Tesla: (Sonriendo) Funcionará. Pero antes de intentarlo, cada uno debe aportar su energía al sistema.");
         System.out.println("Juana: Dios está con nosotros. Hagámoslo.");
         System.out.println("Leonardo: Todo está conectado. Si encontramos el patrón, regresaremos.");
-        System.out.println(Dialogo.Desenlace);
+
+        //Desenlace
+        System.out.println("\n" + Dialogo.Desenlace);
     }   
 }
