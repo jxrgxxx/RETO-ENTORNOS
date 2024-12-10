@@ -16,7 +16,7 @@ public class Dialogo {
         //conversación
         System.out.println("Tesla: Lamento la confusión, pero parece que mi máquina ha abierto un portal en el tiempo. La electricidad es el alma del universo, y ahora compartimos este momento fuera de nuestras épocas.");
         System.out.println("Leonardo: Tranquilo, todo está conectado. La mecánica del universo a veces da lugar a encuentros inesperados, como este.");    
-        System.out.println("Cleopatra:Me interesa saber quién está detrás de este fenómeno, porque el poder no se concede, se toma");
+        System.out.println("Cleopatra: Me interesa saber quién está detrás de este fenómeno, porque el poder no se concede, se toma");
         System.out.println("Juana: (Mirando la máscara triste) ¿Será esto una prueba divina? Dios guía mi espada, pero también mi propósito.");
         System.out.println("Leonardo: Este objeto, el ábaco, parece una herramienta para los números. Tal vez aquí reside una clave para regresar.");
         System.out.println("Cleopatra: (Señalando la tarjeta) Un mensaje, tal vez una orden. Lo que significa que debemos descubrirlo.");
@@ -34,7 +34,7 @@ public class Dialogo {
         System.out.println("Cleopatra: (Reflexiva) La cooperación aquí es clave. Aunque vengamos de diferentes tiempos, debemos unirnos.");
         System.out.println("Tesla: (Concentrado) Si conecto este imán al ábaco y canalizo energía, podríamos desencadenar una reacción.");
         System.out.println("Juana: Dios nos ha reunido. Sigamos adelante con valentía y propósito.");
-
+        System.out.println("Leonardo: (Intentando usar el imán) Este objeto genera una atracción misteriosa. Podríamos experimentar con ello.");
         System.out.println(Dialogo.Desenlace);
     }   
 }
